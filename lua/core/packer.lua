@@ -57,4 +57,7 @@ use {
   requires = { 'nvim-tree/nvim-web-devicons', opt = true }
 }
 
+use ('vimwiki/vimwiki')
+
+use ('skammer/vim-css-color')
   end)

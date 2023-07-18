@@ -159,6 +159,16 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/nuhas/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
+  },
+  ["vim-css-color"] = {
+    loaded = true,
+    path = "/home/nuhas/.local/share/nvim/site/pack/packer/start/vim-css-color",
+    url = "https://github.com/skammer/vim-css-color"
+  },
+  vimwiki = {
+    loaded = true,
+    path = "/home/nuhas/.local/share/nvim/site/pack/packer/start/vimwiki",
+    url = "https://github.com/vimwiki/vimwiki"
   }
 }
 
